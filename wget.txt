@@ -1,0 +1,1 @@
+wget --tries=10 -a logfile -x -nH --content-disposition -i ../paginated-urls/page1.txt
